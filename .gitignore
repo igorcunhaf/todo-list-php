@@ -1,0 +1,13 @@
+# Arquivos sensíveis e de ambiente
+config/db.php
+
+# Backups e cache
+*.sql
+*.log
+*.zip
+*.tar.gz
+
+# Sistema
+.DS_Store
+node_modules/
+vendor/
